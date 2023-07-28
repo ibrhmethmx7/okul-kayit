@@ -1,0 +1,6 @@
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\bin\Debug\Entity.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\bin\Debug\Entity.pdb
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\obj\Debug\Entity.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\Entity\obj\Debug\Entity.pdb

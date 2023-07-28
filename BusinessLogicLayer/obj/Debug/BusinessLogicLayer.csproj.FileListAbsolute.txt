@@ -1,0 +1,11 @@
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\Entity.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\bin\Debug\Entity.pdb
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\90530\source\repos\YAZOKULUKAYIT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

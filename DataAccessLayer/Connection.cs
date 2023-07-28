@@ -7,8 +7,8 @@ using System.Data.SqlClient;
 
 namespace DataAccessLayer
 {
-    class Connection
+   public class Baglanti
     {
-        SqlConnection connection = new SqlConnection(@"Data Source=.;Initial Catalog=DbYazOkulu;Integrated Security=True");
+        public static SqlConnection bgl = new SqlConnection(@"Data Source=.;Initial Catalog=DbYazOkulu;Integrated Security=True");
     }
 }
